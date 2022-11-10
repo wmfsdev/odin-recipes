@@ -1,0 +1,38 @@
+h1 {
+    color: green;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 38px;
+    background-color: darksalmon;
+}
+
+ul {
+    color: blueviolet;
+}
+
+li {
+    color: darkcyan;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+strong {
+    color:indianred;
+}
+
+h2,
+h3 {
+    font-size: 22px;
+    color: salmon;
+    font-weight: bolder;
+    background-color:green;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.important {
+    color:darkslateblue;
+}
